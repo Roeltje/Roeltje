@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Roel! 👋
 
-<!--
-**Roeltje/Roeltje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like making things work. And occasionally making them look nice, too.
 
-Here are some ideas to get you started:
+I'm a curious tech enthusiast from the Netherlands, usually tinkering with home automation, self-hosted services, Linux, and whatever idea seems worth trying. Sometimes that turns into a useful tool. Sometimes it's just a fun experiment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ On my workbench
+
+- **draai** — a little tool I'm preparing to share publicly.
+- **Pixelstead** — a pixel-art-inspired dashboard for Home Assistant and other devices, intended to run self-hosted with Docker or LXC.
+
+Both projects are still taking shape. I'll add links and proper documentation when they're ready to share.
+
+### ⚡ Things I enjoy
+
+Home Assistant · Linux · Docker · Proxmox · Self-hosting · Creative experiments
+
+### ✍️ Elsewhere
+
+I write (in Dutch) about technology, experiments, and the occasional rabbit hole at **[blog.roelblue.nl](https://blog.roelblue.nl)**.
+
+---
+
+*Built with curiosity, coffee, and a healthy amount of trial and error.*
