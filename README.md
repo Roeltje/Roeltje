@@ -1,3 +1,5 @@
+![Roel aan het vibecoden](roel-vibecoding.jpg)
+
 # Hey, I'm Roel! 👋
 
 I like making things work. And occasionally making them look nice, too.
